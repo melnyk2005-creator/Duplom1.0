@@ -1,0 +1,2 @@
+# For fill_data.py (bulk data generator)
+pymysql>=1.0.0
